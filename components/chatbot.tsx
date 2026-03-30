@@ -79,7 +79,7 @@ export default function Chatbot() {
           {/* Chatbot Iframe */}
           {!isMinimized && (
             <iframe
-              src="https://cdn.botpress.cloud/webchat/v3.5/shareable.html?configUrl=https://files.bpcontent.cloud/2026/01/28/11/20260128112950-66R4VNA3.json"
+              src="https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/03/28/05/20260328051717-LZPMOQCH.json"
               className="w-full h-full border-0 rounded-b-lg bg-background"
               allow="camera; microphone; clipboard-read; clipboard-write"
               title="VinFast Chatbot"
